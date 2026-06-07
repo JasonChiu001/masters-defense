@@ -1,2 +1,2 @@
 # masters-defense
-Contains all of the scripts used in Dr. Zhong's lab.
+Contains the scripts referenced in my master's thesis. All scripts are used for Dr. Sheng Zhong's lab in UC San Diego.
